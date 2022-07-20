@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csmfulanito&show_icons=true&locale=en&layout=compact" alt="csmfulanito" /></p>
 
-![Visitor Count](https : //profile-counter.glitch.me/csmfulanito/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/csmfulanito/count.svg)
