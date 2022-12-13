@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **JavaScript, PHP, SQL**
 
-- 📫 How to reach me **csmfulanito6@gmail.com**
+- 📫 How to reach me **augus.recalde097@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
