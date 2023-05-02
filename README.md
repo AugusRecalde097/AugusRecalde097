@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Consesin](https://github.com/CsmFulanito/Consesin)
 
-- 🌱 I’m currently learning **Python and React Native**
+- 🌱 I’m currently learning **Python, React Native and Synphony framework**
 
 - 🤝 I’m looking for help with **JavaScript, PHP, SQL**
 
