@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python, React Native and Synphony framework**
 
-- 🤝 I’m looking for help with **JavaScript, PHP, SQL**
-
 - 📫 How to reach me **augus.recalde097@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
